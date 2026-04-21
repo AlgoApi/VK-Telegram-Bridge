@@ -1,0 +1,5 @@
+pyrogram
+vkbottle
+pydantic-settings
+tgcrypto
+aiohttp
